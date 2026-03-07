@@ -55,6 +55,4 @@ I'm interested in contributing to:
 
 *Still learning. Still building. Still excited to grow.*
 
----
 
-This version maintains professionalism while keeping your personality. The only remaining emoji is the wave 👋 at the beginning, which is widely accepted as a friendly but professional greeting. Would you like me to adjust anything further?
