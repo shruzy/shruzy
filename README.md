@@ -19,7 +19,7 @@ I'm a final-year Computer Science student (B.Tech CSE) with a strong interest in
 ## Featured Projects
 
 
-**Multi Language AI Translator** 
+**Multi Language AI Translator**  
 Using Streamlit that enables users to speak in one language and receive instant audio translations in multiple Indian & foreign languages, still continuing.
 
 **AI Music Generation App**  
