@@ -21,6 +21,7 @@ I'm a final-year Computer Science student (B.Tech CSE) with a strong interest in
 
 **Multi Language AI Translator**  
 Using Streamlit that enables users to speak in one language and receive instant audio translations in multiple Indian & foreign languages, still continuing.
+→ [Explore the repository](https://github.com/shruzy/Multi_Language_AI_Translator)
 
 **AI Music Generation App**  
 A deep learning-based system that generates music from text prompts using language models and audio processing techniques. Built with Python, LLM APIs, and audio libraries.
@@ -34,7 +35,7 @@ A real-time face recognition application using OpenCV, LBPH, and Haar cascades.
 **Python and DSA Learning Repository**  
 A collection of code, notes, and practice problems from my journey through Python and Data Structures and Algorithms.  
 → [Explore the repository](https://github.com/911-shruti/Python)
-
+→ [Explore the repository](https://github.com/shruzy/Multi_Language_AI_Translator)
 ---
 
 ## Open to Collaborate
