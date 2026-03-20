@@ -39,7 +39,7 @@ A collection of code, notes, and practice problems from my journey through Pytho
 ## Open to Collaborate
 
 I'm interested in contributing to:
-- Beginner-friendly open-source projects
+- Friendly open-source projects
 - Machine learning, automation, or data analysis initiatives
 - Real-world problems where I can learn and add value
 
@@ -49,6 +49,7 @@ I'm interested in contributing to:
 
 - LinkedIn: [Shruti Shukla](https://www.linkedin.com/in/sshukla911/)
 - GitHub: You're already here!
+- shukla.shruti2710@gmail.com
 
 ---
 
