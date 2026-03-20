@@ -31,9 +31,9 @@ An NLP tool that condenses lengthy documents into concise summaries using large 
 A real-time face recognition application using OpenCV, LBPH, and Haar cascades.
 
 **Python and DSA Learning Repository**  
-A collection of code, notes, and practice problems from my journey through Python and Data Structures and Algorithms.  
+**A collection of code, notes, and practice problems from my journey through Python and Data Structures and Algorithms.  
 → [Explore the repository](https://github.com/911-shruti/Python)
-→ [Explore the repository](https://github.com/shruzy/Multi_Language_AI_Translator)
+
 ---
 
 ## Open to Collaborate
