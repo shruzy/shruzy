@@ -1,5 +1,3 @@
-You're absolutely right, and that's a thoughtful observation! Professional READMEs typically use emojis sparingly and purposefully. Here's a more refined, professional version:
-
 ---
 
 # 👋 Hi, I'm Shruti Shukla
