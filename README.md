@@ -17,6 +17,10 @@ I'm a final-year Computer Science student (B.Tech CSE) with a strong interest in
 ## Featured Projects
 
 
+**credit-risk-prediction-model**
+A machine learning project that predicts whether a loan applicant will default on their loan, using Logistic Regression and XGBoost. Built on the [Kaggle Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset) (~32,500 loan applications).
+→ [Explore the repository](https://github.com/shruzy/credit-risk-prediction-model)
+
 **Multi Language AI Translator**  
 Using Streamlit that enables users to speak in one language and receive instant audio translations in multiple Indian & foreign languages, still continuing.
 → [Explore the repository](https://github.com/shruzy/Multi_Language_AI_Translator)
