@@ -35,12 +35,12 @@ Built an end-to-end voice translator using Streamlit that accepts speech input, 
 
 Developed a deep learning model that generates original MIDI music compositions. Trained on 500+ MIDI files with custom preprocessing pipeline for note sequence extraction.
 
-### AI Text Summarizer
+### [AI Text Summarizer](https://github.com/shruzy/AI-Summarizer)
 > NLP | Transformers | Streamlit
 
 Created a document summarization tool that condenses long articles into 3-5 key sentences using pre-trained transformer models. Achieved 40% reduction in reading time in user testing.
 
-### Face Recognition System
+### [Face Recognition System](https://github.com/shruzy/Face_Recognition_Python)
 > OpenCV | LBPH | Haar Cascades | 90% accuracy
 
 Built a real-time face recognition system trained on 5,000+ images with varied lighting and angles. Deployed with live webcam integration.
