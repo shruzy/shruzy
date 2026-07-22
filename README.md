@@ -10,7 +10,7 @@ I build AI solutions that turn raw data into real-world impact. With hands-on ex
 
 | Area | Skills |
 |------|--------|
-| **Languages** | Python, SQL |
+| **Languages** | Python, SQL, JAVA |
 | **ML/DL** | Scikit-learn, TensorFlow, XGBoost, SMOTE, CNNs, RNNs, LSTMs |
 | **NLP** | Speech Recognition, Translation, Summarization, TTS |
 | **Data** | Pandas, NumPy, Matplotlib, Seaborn, EDA, Feature Engineering |
